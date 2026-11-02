@@ -1,0 +1,8 @@
+node_modules
+dist
+dist-viewer
+src/generated
+test-results
+.wrangler
+.dev.vars
+settings.json
